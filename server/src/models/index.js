@@ -22,12 +22,6 @@ fs
     db[model.name] = model
   })
 
-// const model = sequelizeImport(__dirname, sequelize, {
-//   exclude: ['index.js']
-// })
-// console.log(model)
-// db[model.name] = model
-
 db.sequelize = sequelize
 db.Sequelize = Sequelize
 
