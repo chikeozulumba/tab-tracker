@@ -4,8 +4,8 @@
     <!-- <img src="./assets/logo.png"> -->
     <main>
       <v-container fluid>
-      <router-view></router-view>
-    </v-container> 
+        <router-view></router-view>
+      </v-container>
     </main>
   </div>
 </template>
