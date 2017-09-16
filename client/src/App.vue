@@ -42,4 +42,8 @@ export default {
 .application {
   min-height: 5vh !important;
 }
+
+.danger-alert {
+  color: red
+}
 </style>
